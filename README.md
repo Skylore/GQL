@@ -1,1 +1,2 @@
-# graphqlIntro
+# npm install
+# npm run start
